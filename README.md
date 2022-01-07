@@ -1,2 +1,3 @@
 # find-your-hat
-Finding Hat Game
+Finding Hat Game 
+**DO NOT CONSIDER THIS**
